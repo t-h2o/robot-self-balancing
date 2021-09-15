@@ -1,2 +1,6 @@
 # robot-self-balancing
-A robot self balancing made in ETML
+
+--  INTRODUCTION  --
+
+A robot self balancing made in ETML (swiss school in Lausanne)
+Was my project of the end of my CFC automaticien (formation of 4 years)
