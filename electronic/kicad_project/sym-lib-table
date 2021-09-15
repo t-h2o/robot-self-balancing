@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name OLED_Screen)(type Legacy)(uri ${KIPRJMOD}/OLED_Screen.lib)(options "")(descr ""))
+  (lib (name L298N_MotoDriver-2)(type Legacy)(uri ${KIPRJMOD}/L298N_MotoDriver-2.lib)(options "")(descr ""))
+  (lib (name TGL-Fuse)(type Legacy)(uri ${KIPRJMOD}/TGL-Fuse.lib)(options "")(descr ""))
+  (lib (name robot_self_balancing-rescue)(type Legacy)(uri ${KIPRJMOD}/robot_self_balancing-rescue.lib)(options "")(descr ""))
+  (lib (name TGL-SchematicLibrairy)(type Legacy)(uri ${KIPRJMOD}/TGL-SchematicLibrairy.lib)(options "")(descr ""))
+)

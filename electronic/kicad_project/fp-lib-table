@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name robot_self_balancing)(type KiCad)(uri K:/AM/PROJETS/E/EnCours/TPI-TGL-Robot_Self_Balancing/02_Carte_Electronique/Librairie_Creer/robot_self_balancing.pretty)(options "")(descr ""))
+  (lib (name Connecteur_1.2)(type KiCad)(uri K:/AM/PROJETS/E/EnCours/00_COMMUNS/KICAD/Connecteur_1.2.pretty)(options "")(descr ""))
+  (lib (name TGL)(type KiCad)(uri K:/AM/PROJETS/E/EnCours/00_COMMUNS/KICAD/Bornier/TGL.pretty)(options "")(descr ""))
+)

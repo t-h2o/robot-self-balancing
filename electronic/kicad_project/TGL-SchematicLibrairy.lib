@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# mainSwitch
+#
+DEF mainSwitch S 0 40 Y Y 1 F N
+F0 "S" 0 50 50 H V C CNN
+F1 "mainSwitch" 0 -50 50 H V C CNN
+F2 "" 0 0 26 H I C CNN
+F3 "" 0 0 26 H I C CNN
+DRAW
+T 0 150 -300 52 0 0 0 0 Normal 0 R C
+T 0 -200 -300 52 0 1 1 1 Normal 0 L C
+P 2 1 1 0 100 -250 -150 -150 N
+X 1 ~ -150 -350 100 U 50 50 1 1 I
+X 2 ~ 100 -350 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
